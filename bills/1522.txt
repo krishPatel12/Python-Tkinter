@@ -1,0 +1,21 @@
+	 welcome to store 
+
+ Bill Number: 1522
+ Customer Name: kanjibhai 
+ Phone Number: 098765432
+====================================
+Product		Qty	   Price
+====================================
+Face Cream		2	   240
+Face Wash		1	   60
+Daal		2	   120
+Tea		1	   20
+Maza		1	   40
+Sprite		6	   300
+------------------------------------
+Cosmetic Tax			Rs. 15.0
+Grocery Tax			Rs. 14.0
+Cold Drinks Tax			Rs. 17.0
+------------------------------------
+Total Bill : 			Rs. 826.0
+------------------------------------

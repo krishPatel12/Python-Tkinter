@@ -1,0 +1,18 @@
+	 welcome to store 
+
+ Bill Number: 4794
+ Customer Name: krish
+ Phone Number: 9978900654
+====================================
+Product		Qty	   Price
+====================================
+Face Cream		1	   120
+Sugar		5	   225
+Sprite		4	   200
+------------------------------------
+Cosmetic Tax			Rs. 6.0
+Grocery Tax			Rs. 22.5
+Cold Drinks Tax			Rs. 10.0
+------------------------------------
+Total Bill : 			Rs. 583.5
+------------------------------------

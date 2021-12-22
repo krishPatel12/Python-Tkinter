@@ -1,0 +1,18 @@
+	 welcome to store 
+
+ Bill Number: 9181
+ Customer Name: rajesh
+ Phone Number: 3434343434
+====================================
+Product		Qty	   Price
+====================================
+Face Cream		2	   240
+Sugar		2	   90
+Limca		3	   150
+------------------------------------
+Cosmetic Tax			Rs. 12.0
+Grocery Tax			Rs. 9.0
+Cold Drinks Tax			Rs. 7.5
+------------------------------------
+Total Bill : 			Rs. 508.5
+------------------------------------

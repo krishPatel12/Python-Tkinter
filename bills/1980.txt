@@ -1,0 +1,18 @@
+	 welcome to store 
+
+ Bill Number: 1980
+ Customer Name: krish patel
+ Phone Number: 123445678
+====================================
+Product		Qty	   Price
+====================================
+Bath Soap		1	   40
+Wheat		1	   240
+Sprite		2	   100
+------------------------------------
+Cosmetic Tax			Rs. 2.0
+Grocery Tax			Rs. 24.0
+Cold Drinks Tax			Rs. 5.0
+------------------------------------
+Total Bill : 			Rs. 411.0
+------------------------------------
